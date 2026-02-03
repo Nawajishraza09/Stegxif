@@ -45,7 +45,8 @@ and analyze EXIF metadata, all from a single, user-friendly interface.
 - pip install -r requirements.txt
 
 ▶️ Run the Application
-- streamlit run steg_app.py -> after that it will automatically open on browser "http://localhost:8501" 
+- streamlit run steg_app.py -> after that it will automatically open on browser "http://localhost:8501"
+- There is two different files also available for two different task for "Hiding" & "Extracting" separately.
 
 # 🔐 How Encryption Works
 1. Password is converted into a SHA-256 key
