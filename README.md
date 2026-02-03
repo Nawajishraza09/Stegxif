@@ -38,14 +38,14 @@ and analyze EXIF metadata, all from a single, user-friendly interface.
 
 # 📦 Installation
 1️⃣ Clone the repository
-git clone https://github.com/Nawajishraza09/Stegxif.git
-cd Stegxif
+- git clone https://github.com/Nawajishraza09/Stegxif.git
+- cd Stegxif
 
 2️⃣ Install dependencies
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ▶️ Run the Application
-streamlit run steg_app.py -> after that it will automatically open on browser "http://localhost:8501" 
+- streamlit run steg_app.py -> after that it will automatically open on browser "http://localhost:8501" 
 
 # 🔐 How Encryption Works
 1. Password is converted into a SHA-256 key
